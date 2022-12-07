@@ -1,6 +1,47 @@
+/* TAG SELECTOR */
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   font-weight: 900;
   line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+p {
+  color: #8F8F8F;
+}
+
+/* CLASES */
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.feature-box {
+  padding: 5%;
+  text-align: center;
+}
+
+.icon {
+  color: #EF8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FF4C68;
+}
+
+/* ID SELECTORS */
+
+#features {
+  padding: 7% 15%;
+}
+
+#title {
+  background-color: #FF4C68;
 }
