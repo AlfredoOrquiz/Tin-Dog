@@ -43,6 +43,17 @@ p {
   color: #FF4C68;
 }
 
+.press-logo {
+  margin: 20px 20px 50px;
+  width: 15%;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
 /* ID SELECTORS */
 
 #features {
@@ -53,6 +64,12 @@ p {
   background-color: #EF8172;
   color: #FFF;
   padding: 7% 15%;
+  text-align: center;
+}
+
+#press {
+  background-color: #EF8172;
+  padding-bottom: 3%;
   text-align: center;
 }
 
