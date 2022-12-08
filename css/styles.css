@@ -25,6 +25,10 @@ p {
 
 /* CLASES */
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -63,7 +67,6 @@ p {
 #testimonials {
   background-color: #EF8172;
   color: #FFF;
-  padding: 7% 15%;
   text-align: center;
 }
 
