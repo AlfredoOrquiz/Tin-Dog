@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Montserrat';
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,7 +41,6 @@ p {
 
 .feature-box {
   padding: 5%;
-  text-align: center;
 }
 
 .feature-title {
@@ -104,7 +104,6 @@ p {
   background-color: #FF4C68;
   color: #FFF;
   padding: 7% 15%;
-  text-align: center;
 }
 
 #features {
@@ -115,24 +114,20 @@ p {
 
 #footer {
   padding: 7% 15%;
-  text-align: center;
 }
 
 #testimonials {
   background-color: #EF8172;
   color: #FFF;
-  text-align: center;
 }
 
 #press {
   background-color: #EF8172;
   padding-bottom: 3%;
-  text-align: center;
 }
 
 #pricing {
   padding: 100px;
-  text-align: center;
 }
 
 #title {
