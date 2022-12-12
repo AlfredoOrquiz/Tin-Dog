@@ -23,6 +23,11 @@ p {
   line-height: 1.5;
 }
 
+.colored-section {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+
 .container-fluid {
   padding: 7% 15%;
 }
@@ -90,21 +95,18 @@ p {
   width: 250px;
 }
 
-/* ID SELECTORS */
-
-#cta {
-  background-color: #FF4C68;
-  color: #FFF;
+.white-image {
+  background-color: #FFF;
 }
 
+/* ID SELECTORS */
+
 #features {
-  background-color: #FFF;
   position: relative;
 }
 
 #testimonials {
   background-color: #EF8172;
-  color: #FFF;
 }
 
 #press {
@@ -117,8 +119,6 @@ p {
 }
 
 #title {
-  background-color: #FF4C68;
-  color: #FFF;
   text-align: left;
 }
 
