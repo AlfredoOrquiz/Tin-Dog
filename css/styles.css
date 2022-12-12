@@ -133,6 +133,7 @@ p {
 #title {
   background-color: #FF4C68;
   color: #FFF;
+  text-align: left;
 }
 
 @media (max-width: 1028px) {
